@@ -11,3 +11,4 @@ As stated above, the main pupose is to provide simple examples for Git training 
 This is simple web project, deployment can be on any web server or even local file system.
 
 ## How to contribute
+me
